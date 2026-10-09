@@ -1,1 +1,1 @@
-# lynis
+# Lynis
